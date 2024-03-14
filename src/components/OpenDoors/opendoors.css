@@ -1,0 +1,90 @@
+.opendoors__main-wrapper {
+    padding: 185.24px 320px 57.61px 168px;
+    background-color: #17171B;
+    position: relative;
+    overflow: hidden;
+    z-index: 99;
+}
+
+.opendoors__title {
+    text-align: left;
+    font-size: 50px;
+    line-height: 60px;
+    font-family: "Roc Grotes Wide Regular";
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    max-width: 899px;
+    position: relative;
+    z-index: 99;
+}
+
+.opendoors__caption {
+    font-size: 46px;
+    line-height: 61px;
+    letter-spacing: 0.74px;
+    color: #896FFF;
+    opacity: 1;
+}
+
+.opendoors_describe {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 58.47px 0px 0px 108.88px;
+}
+
+.opedoors_left_Describe {
+    font-size: 30px;
+    line-height: 40px;
+    font-family: "Gibson";
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+}
+
+.opedoors_left_Describe_1 {
+    max-width: 420px;
+}
+
+.opedoors_left_Describe_2 {
+    max-width: 450px;
+}
+
+.opedoors_left_Describe_3 {
+    max-width: 647px;
+}
+
+.whitecollar_title_wrapper {
+    padding: 55.47px 0px 0px 0px;
+}
+
+.whitecollar_title {
+    font-size: 50px;
+    line-height: 60px;
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding-bottom: 28.27px;
+}
+
+.whitecollar_title span {
+    /* font-family: "Roc Grotes Wide Regular"; */
+    font-weight: bold;
+}
+
+.chan_nna_title{
+    padding-top: 57.61px;
+}
+
+.change_nna_firm{
+    padding-left: 253.16px;
+   padding-top: 20px;
+}
+
+.change_nna{
+    position: absolute;
+    filter: blur(50px);
+    bottom: -35%;
+    z-index: -1;
+}

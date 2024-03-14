@@ -1,0 +1,15 @@
+.homeslidersection__main-wrapper {
+    border: 1px solid #000000;
+    overflow-x: hidden;
+}
+
+.homeslidersection__main-wrapper .slider__quotes {
+    font: normal normal medium 30px/40px Roc Grotesk;
+    letter-spacing: 0.48px;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.homeslidersection__main-wrapper .slider__quotes span {
+    font: normal normal 300 30px/40px Roc Grotesk;
+}

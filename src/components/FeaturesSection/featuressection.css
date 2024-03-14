@@ -1,0 +1,29 @@
+.featuressection__main--wrapper {
+    background: #FFFCF8 0% 0% no-repeat padding-box;
+    height: 239px;
+    padding: 59px 131px 58px 160px;
+}
+
+.features__points {
+    text-align: left;
+    font: normal normal normal 30px/40px Gibson;
+    letter-spacing: 0.48px;
+    color: #000000;
+}
+
+.features__points span {
+    text-decoration: underline;
+}
+
+.features__points1 {
+    max-width: 372px;
+    margin-left: 148px;
+}
+
+.features__points2 {
+    max-width: 386px;
+}
+
+.features__points3 {
+    max-width: 279px;
+}

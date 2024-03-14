@@ -1,0 +1,175 @@
+.bg__black {
+    background-color: #17171B !important;
+    color: white;
+    /* Text color white when background is black */
+}
+
+.bg-body-tertiary {
+    background-color: #f2f4f6;
+    /* Your default background color */
+    color: #000;
+    /* Your default text color */
+}
+
+.navbar_light {
+    height: 87px;
+    background: #FFFCF8;
+    border-bottom: 1px solid #000000;
+    opacity: 1;
+    padding: 0 !important;
+    display: flex;
+    /* Use flexbox for layout */
+    align-items: center;
+    z-index: 999;
+    /* Vertically center items */
+}
+
+.navbar_dark {
+    height: 87px;
+    border-bottom: 1px solid #fff;
+    opacity: 1;
+    padding: 0 !important;
+    display: flex;
+    /* Use flexbox for layout */
+    align-items: center;
+    z-index: 999;
+    /* Vertically center items */
+}
+
+.navbar-brand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0px !important;
+    padding: 0px !important;
+}
+
+.vertical-line-light {
+    border-left: 1px solid #000;
+    height: 87px;
+}
+
+.vertical-line-dark {
+    border-left: 1px solid #fff;
+    height: 87px;
+}
+
+.logo_wrapper {
+    background: #000000 0% 0% no-repeat padding-box;
+    -webkit-text-fill-color: #000000;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: #000;
+    padding: 0px 65px 0px 35px;
+}
+
+.logo_wrapper span {
+    display: inline-block;
+    transform: rotate(77deg) scale(1.05);
+    height: 17px;
+    width: 17px;
+    background: #0002FF;
+    margin: 0px 3.41px;
+}
+
+.logo_wrapper_dark {
+    background: #fff 0% 0% no-repeat padding-box;
+    -webkit-text-fill-color: #fff;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: #fff;
+    padding: 0px 65px 0px 35px;
+}
+
+.logo_wrapper_dark span {
+    display: inline-block;
+    transform: rotate(77deg) scale(1.05);
+    height: 17px;
+    width: 17px;
+    background: #fff;
+    margin: 0px 3.41px;
+}
+
+.caption_wrapper {
+    font-family: "Roc Grotes Light";
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: 0.4px;
+    /* color: #000000; */
+    padding: 0px 25px 0px 38.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile_btn {
+    border: 1px solid #000000 !important;
+    padding: 13px;
+    background: #fff !important;
+    border-radius: 0 !important;
+    color: #000000 !important;
+    width: 194px;
+    height: 42px;
+    display: flex !important;
+    align-items: center;
+    font-size: 16px;
+    font-family: "Roc Grotes Light";
+    line-height: 18px;
+    letter-spacing: 0.26px;
+    margin-right: 37.5px;
+}
+
+.profile_btn svg {
+    margin-right: 11.34px;
+}
+
+.login_button {
+    width: 159px;
+    height: 42px;
+    background: #17171B 0% 0% no-repeat padding-box;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 37.5px;
+}
+
+.navbar-toggler {
+    border: 0 !important;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.navbar-toggler-icon {
+    margin: 0px 23.75px 0px 33.75px;
+
+}
+
+.about_link {
+    width: 265px;
+    height: 84px;
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    border: 1px solid #FFFFFF !important;
+    opacity: 1;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center;
+    font-size: 35px !important;
+    line-height: 40px !important;
+    font-family: "Roc Grotes Light";
+    letter-spacing: 0.56px;
+}
+
+.about_navbar::after {
+    content: "";
+    height: 13px;
+    width: 358px;
+    background-color: #fff;
+}
+
+.about_navbar {
+    background-color: #17171B !important;
+}

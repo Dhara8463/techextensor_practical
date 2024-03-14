@@ -1,0 +1,62 @@
+.contactus__main-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #17171B;
+    padding-left: 168px;
+    padding-right: 160px;
+    padding-bottom: 97.62px;
+}
+
+.contactus_title {
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    font-size: 50px;
+    line-height: 60px;
+    padding-bottom: 25.41px;
+}
+
+.contactus_caption {
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 30px;
+    line-height: 40px;
+    max-width: 681px;
+}
+
+.contactus_btn {
+    width: 239px;
+    height: 58px;
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    box-shadow: 10px 10px 0px #000000;
+    border: 1px solid #000000 !important;
+    opacity: 1;
+    font: normal normal medium 24px/29px Gibson;
+    color: #000000 !important;
+    border-radius: 0px !important;
+    transition: box-shadow 0.3s ease;
+    /* position: absolute;
+    bottom: 10%;
+    right: 88.52px; */
+}
+
+.contactus_btn:hover{
+    box-shadow: none;
+}
+.contact_block {
+    background: #FFFCF8 0% 0% no-repeat padding-box;
+    border: 1px solid #000000;
+    opacity: 1;
+    width: 260px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 1.54px;
+    color: #000000;
+    font-size: 20px;
+    line-height: 70px;
+}

@@ -1,0 +1,57 @@
+.ourteam__main-wrapper {
+    background-color: #17171B;
+    padding-bottom: 156.98px;
+    position: relative;
+    z-index: -1;
+}
+
+.ourteam_wrapper-title {
+    font-size: 50px;
+    line-height: 60px;
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    padding-left: 168px;
+    padding-bottom: 34.69px;
+}
+
+.ourteam__caption {
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 30px;
+    line-height: 40px;
+    padding-left: 168px;
+    max-width: 779px;
+}
+
+.employee_name {
+    letter-spacing: 0.43px;
+    color: #896FFF;
+    text-transform: uppercase;
+    opacity: 1;
+    font-size: 27px;
+    line-height: 65px;
+}
+
+.employee_gender {
+    letter-spacing: 0.35px;
+    color: #896FFF;
+    opacity: 1;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+.employee_position {
+    letter-spacing: 0.34px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 21px;
+    line-height: 32px;
+}
+
+.ourteam__employedata_wrapper {
+    padding-left: 168px !important;
+    padding-top: 71.25px;
+}
